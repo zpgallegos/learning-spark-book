@@ -1,0 +1,1 @@
+$SPARK_HOME/bin/spark-submit mnmcount.py mnm_dataset.csv
